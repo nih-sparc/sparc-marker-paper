@@ -55,7 +55,7 @@ Launch Jupyter lab and naviguate to open the main.ipynb file. Make sure to chang
 
 ## Inputs/outputs
 
-The Jupyter notebook makes use of files in the associated [dataset GitHub repository](https://github.com/FAIR-BioRS/Data). You will need to download the dataset at add it in the input folder.
+The Jupyter notebook makes use of files in the dataset associated with the SPARC Marker Paper [(see here)](https://github.com/nih-sparc/sparc-marker-paper-inventory). You will need to download the dataset at add it in the input folder.
 
 Outputs of the code include tables displayed directly in the notebook and plots displayed in the notebook but also saved as files. These saved plot files are included in the [output](output) folder here. 
 
