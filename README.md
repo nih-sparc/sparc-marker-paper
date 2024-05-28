@@ -2,7 +2,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6468963.svg)](https://doi.org/10.5281/zenodo.xxxxx)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11361363.svg)](https://doi.org/10.5281/zenodo.11361363)
 
 [contributors-shield]: https://img.shields.io/github/contributors/nih-sparc/sparc-marker-paper.svg?style=flat-square
 [contributors-url]: https://github.com/nih-sparc/sparc-marker-paper/graphs/contributors
@@ -70,5 +70,5 @@ Use the [GitHub issues](https://github.com/nih-sparc/sparc-marker-paper/issues) 
 If you use this code, please cite the SPARC Marker Paper (it will be listed [here]() when available) and also cite this repository as:
 
 ```bash
-Patel, Bhavesh. Code: SPARC Marker Paper [Software]. Zenodo. https://doi.org/10.5281/zenodo.xxxxxx
+Patel, Bhavesh. Code: SPARC Marker Paper [Software]. Zenodo. https://doi.org/10.5281/zenodo.11361363
 ```
