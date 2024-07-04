@@ -67,7 +67,7 @@ This work is licensed under
 Use the [GitHub issues](https://github.com/nih-sparc/sparc-marker-paper/issues) for submitting feedback or making suggestions. You can also work the repository and submit a pull request with suggestions.
 
 ## How to cite
-If you use this code, please cite the SPARC Marker Paper (it will be listed [here]() when available) and also cite this repository as:
+If you use this code, please cite the SPARC Marker Paper (it will be listed [here](https://github.com/nih-sparc/sparc-marker-paper-inventory) when available) and also cite this repository as:
 
 ```bash
 Patel, Bhavesh. Code: SPARC Marker Paper [Software]. Zenodo. https://doi.org/10.5281/zenodo.11361363
