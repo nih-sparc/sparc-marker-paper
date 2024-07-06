@@ -16,7 +16,7 @@
 # Code: SPARC Marker Paper
 
 ## About
-This is the code associated with the SPARC Marker Paper. SPARC is one of the NIH Common Fund's Program that seeks to accelerate the development of therapeutic devices that modulate electrical activity in the ANS to improve internal organ functions and suppress dysfunction. The SPARC Marker paper currently being prepared is aimed at providing an overview of the SPARC program, presenting its major outcomes, and giving an assessment of the impact of the program on bioelectronic medicine-related research and development. The repository contains the Jupyter notebook developed to analyze data for the paper and generate figures.
+This is the code associated with the SPARC Marker Paper. SPARC is one of the NIH Common Fund's Program that seeks to accelerate the development of therapeutic devices that modulate electrical activity in the ANS to improve internal organ functions and suppress dysfunction. The SPARC Marker paper currently being prepared is aimed at providing an overview of the SPARC program, presenting its major outcomes, and giving an assessment of the impact of the program on bioelectronic medicine-related research and development. The repository contains the Jupyter notebook developed to analyze data for the paper and generate figures. See this [inventory](https://github.com/nih-sparc/sparc-marker-paper-inventory) for all related resources, including the paper.
 
 
 ## Standards followed
