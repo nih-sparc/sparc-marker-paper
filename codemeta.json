@@ -28,6 +28,17 @@
         "@type": "Organization",
         "name": "FAIR Data Innovations Hub, California Medical Innovations Institute"
       }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://orcid.org/0000-0001-5157-247X",
+      "givenName": "Elisabetta",
+      "familyName": "Iavarone",
+      "email": "iavarone@itis.swiss",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "IT'IS Foundation, Zürich (Switzerland)"
+      }
     }
   ]
 }
