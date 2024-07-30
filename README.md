@@ -53,17 +53,17 @@ $ conda deactivate
 ### Launch Jupyter lab
 Launch Jupyter lab and naviguate to open the main.ipynb file. Make sure to change the kernel to the one created above (e.g., see [here](https://doc.cocalc.com/howto/jupyter-kernel-selection.html#cocalc-s-jupyter-notebook)). We recommend to use the [JupyterLab code formatter](https://github.com/ryantam626/jupyterlab_code_formatter) along with the [Black](https://github.com/psf/black) and [isort](https://github.com/PyCQA/isort) formatters to facilitate compliance with PEP8 if you are editing the notebook.
 
-## Inputs/outputs
-
-The Jupyter notebook makes use of files in the dataset associated with the SPARC Marker Paper [(see here)](https://github.com/nih-sparc/sparc-marker-paper-inventory). You will need to download the dataset at add it in the input folder.
-
-Outputs of the code include tables displayed directly in the notebook and plots displayed in the notebook but also saved as files. These saved plot files are included in the [output](output) folder. 
-
 ## Using the Jupyter notebook on o²S²PARC (no installation required)
 
 SPARC has also developed [o²S²PARC](https://sparc.science/tools-and-resources/4LkLiH5s4FV0LVJd3htsvH), a cloud platform to build and explore modeling and data analysis pipelines. You will find the code in this repository, all the necessary software dependencies, and the input data [at this o²S²PARC link](https://osparc.io/study/ee1a91fa-4e71-11ef-96df-0242ac1733f1).
 
 To access the o²S²PARC link, you need an o²S²PARC account; you will find more information on how to create an account at the o²S²PARC platform URL [osparc.io](https://osparc.io/).
+
+## Inputs/outputs
+
+The Jupyter notebook makes use of files in the dataset associated with the SPARC Marker Paper [(see here)](https://github.com/nih-sparc/sparc-marker-paper-inventory). You will need to download the dataset at add it in the input folder.
+
+Outputs of the code include tables displayed directly in the notebook and plots displayed in the notebook but also saved as files. These saved plot files are included in the [output](output) folder. 
 
 ## License
 This work is licensed under
