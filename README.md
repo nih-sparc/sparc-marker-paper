@@ -22,7 +22,7 @@ This is the code associated with the SPARC Marker Paper. SPARC is one of the NIH
 ## Standards followed
 The overall code is structured according to the [FAIR-BioRS guidelines](https://fair-biors.org/). The Python code in the Jupyter notebook [main.ipynb](main.ipynb) follows the [PEP8 guidelines](https://peps.python.org/pep-0008). Functions are documented with docstring formatted following [Google's style guide](https://google.github.io/styleguide/pyguide.html#38-comments-and-docstrings). All the dependencies are documented in the [environment.yml](environment.yml) file.
 
-## Using the Jupyter notebook
+## Using the Jupyter notebook on your computer
 
 ### Prerequisites 
 We recommend using Anaconda to create and manage your development environment and using JupyterLab to run the notebook. All the subsequent instructions are provided assuming you are using [Anaconda (Python 3 version)](https://www.anaconda.com/products/individual) and JupyterLab.
@@ -58,6 +58,12 @@ Launch Jupyter lab and naviguate to open the main.ipynb file. Make sure to chang
 The Jupyter notebook makes use of files in the dataset associated with the SPARC Marker Paper [(see here)](https://github.com/nih-sparc/sparc-marker-paper-inventory). You will need to download the dataset at add it in the input folder.
 
 Outputs of the code include tables displayed directly in the notebook and plots displayed in the notebook but also saved as files. These saved plot files are included in the [output](output) folder. 
+
+## Using the Jupyter notebook on o²S²PARC (no installation required)
+
+SPARC has also developed [o²S²PARC](https://sparc.science/tools-and-resources/4LkLiH5s4FV0LVJd3htsvH), a cloud platform to build and explore modeling and data analysis pipelines. You will find the code in this repository, all the necessary software dependencies, and the input data [at this o²S²PARC link](https://osparc.io/study/ee1a91fa-4e71-11ef-96df-0242ac1733f1).
+
+To access the o²S²PARC link, you need an o²S²PARC account; you will find more information on how to create an account at the o²S²PARC platform URL [osparc.io](https://osparc.io/).
 
 ## License
 This work is licensed under
