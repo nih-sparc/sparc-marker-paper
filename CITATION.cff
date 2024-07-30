@@ -8,6 +8,11 @@ authors:
   family-names: Patel
   given-names: Bhavesh
   orcid: 0000-0002-0307-262X
+- affiliation: IT'IS Foundation, Zürich (Switzerland)
+  email: iavarone@itis.swiss
+  family-names: Elisabetta
+  given-names: Iavarone
+  orcid: 0000-0001-5157-247X
 cff-version: 1.2.0
 date-released: '2025-05-28'
 identifiers:
